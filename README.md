@@ -10,7 +10,7 @@ how to install pythonnet
 	 
 	 (ii) click on artifact menu
 	 
-	 (iii) download "dist\pythonnet-2.4.0.dev0-cp37-cp37m-win_amd64.whl" this whl file and then run in cmd "pip install [whl file name]"
+	 (iii) download "dist\pythonnet-2.4.0.dev0-cp37-cp37m-win_amd64.whl" this whl file and then run in cmd "pip install [whl file name]" (assuming you have install python 3.7 on your windows machine. if you feel difficulties to install python then visit this url:https://www.howtogeek.com/197947/how-to-install-python-on-windows/)
 	 
 	 
 2. create visual studio c# project and add referecnces "Python.Runtime.dll"	  from python37 -> sitepackages directory
