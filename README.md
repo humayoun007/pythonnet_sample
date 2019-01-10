@@ -1,8 +1,8 @@
 # pythonnet_sample
 ### consume python function from c# app
 
-how to install pythonnet
-----------------------------
+how to install pythonnet and work with vs2017
+-----------------------------------------------
 
 1. go to this url : https://ci.appveyor.com/project/pythonnet/pythonnet/branch/master
    
